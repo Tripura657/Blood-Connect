@@ -8,23 +8,11 @@ This project aims to improve the blood donation process by incorporating a compr
 
 ---
 
-## 📚 Domain Knowledge
-
-This system creates a user-friendly and informative platform where:
-- Donors can register and manage profiles
-- Recipients can search and request blood
-- Blood banks can update inventory
-- Admins can manage and match requests with available donors
-
----
-
-
 ## ✅ Our Solution: Key Features
 
 - 👥 Donor Registration & Profile Management
 - 🏥 Search for Blood Banks & Camps
-- 🔄 Real-time Updates and Notifications
-- 🧬 Automated Matching by Blood Type & Location
+- 🧬 get Matching results by Blood Type & Location
 - 🔐 Login & Logout Functionality
 - 📋 View Requests & Respond
 - 🥇 certificate for the donation to encourage donors
@@ -32,8 +20,8 @@ This system creates a user-friendly and informative platform where:
 
 ## 🛠️ Tech Stack
 
-| Frontend       | Backend     | Database     | Other Tools         |
-|----------------|-------------|--------------|----------------------|
-| HTML, CSS, JS  | PHP, Python | MySQL, MongoDB | Bootstrap, jQuery |
+| Frontend       | Backend     | Database  |
+|----------------|-------------|-----------|
+| HTML, CSS, JS  | PHP, Python | MySQL     | 
 
 ---
