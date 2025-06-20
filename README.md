@@ -22,6 +22,6 @@ This project aims to improve the blood donation process by incorporating a compr
 
 | Frontend       | Backend     | Database  |
 |----------------|-------------|-----------|
-| HTML, CSS, JS  | PHP, Python | MySQL     | 
+| HTML, CSS, JS  | PHP         | MySQL     | 
 
 ---
