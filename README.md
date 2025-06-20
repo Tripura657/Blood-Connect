@@ -27,8 +27,7 @@ This system creates a user-friendly and informative platform where:
 - 🧬 Automated Matching by Blood Type & Location
 - 🔐 Login & Logout Functionality
 - 📋 View Requests & Respond
-- 📡 Personalized Results with Nearby Suggestions
-
+- 🥇 certificate for the donation to encourage donors
 ---
 
 ## 🛠️ Tech Stack
