@@ -92,7 +92,7 @@ Blood-Connect/
     - Structured and reusable components for consistent UI
     
     - Responsive web interface
-## 🔧 Prerequisites
+# Prerequisites
 
 Before setting up the project, ensure the following requirements are met:
 
