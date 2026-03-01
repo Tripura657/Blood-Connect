@@ -65,26 +65,26 @@ Blood-Connect/
     
     - Blood donation certificate generation
 
-🛠️ Admin Panel Features
+- Admin Panel Features
 
-Admin login and dashboard
+    - Admin login and dashboard
+    
+    - Add, update, and manage blood donor records
+    
+    - Add, update, and manage blood bank details
+    
+    - Add, update, and manage blood donation camp details
+    
+    - View and manage blood requests
+    
+    - Centralized management of system data
 
-Add, update, and manage blood donor records
+- System Features
 
-Add, update, and manage blood bank details
-
-Add, update, and manage blood donation camp details
-
-View and manage blood requests
-
-Centralized management of system data
-
-🔍 System Features
-
-Location-based search functionality
-
-Centralized database for donors, banks, and camps
-
-Structured and reusable components for consistent UI
-
-Responsive web interface
+    - Location-based search functionality
+    
+    - Centralized database for donors, banks, and camps
+    
+    - Structured and reusable components for consistent UI
+    
+    - Responsive web interface
