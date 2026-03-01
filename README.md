@@ -13,8 +13,8 @@ Blood-Connect/
 ├── webfonts/                  # Font files used in UI
 │
 ├── about.php                 # About page describing the project
-├── blood_banks.php           # Displays list of blood banks
-├── blood_camp.php            # Displays blood camp details
+├── blood_banks.php           # To add blood banks
+├── blood_camp.php            # To add blood camp details
 ├── certificate.php           # Generates donation certificates
 ├── change-password.php       # Allows users to change password
 ├── contact-blood.php         # Contact form for blood-related queries
