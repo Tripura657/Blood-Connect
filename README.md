@@ -2,7 +2,8 @@
 A full-stack web application designed to streamline the blood donation process by bringing blood donors, recipients, blood banks, and blood donation camps onto a single platform. The application features an admin panel that allows administrators to manage blood banks, blood donation camps, donors, and blood inventory effectively. The backend is developed using **PHP** and **MySQL**, while the frontend is built with **HTML**, **CSS**, and **JavaScript**. The application is deployed on **InfinityFree**.
 
 # Project Structure
-``` Blood-Connect/
+```
+Blood-Connect/
 │
 ├── admin/                     # Admin panel pages (dashboard, management features)
 ├── css/                       # Stylesheets (CSS files for UI design)
