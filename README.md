@@ -118,11 +118,11 @@ Before setting up the project, ensure the following requirements are met:
 3. Create a new database in MySQL.
 4. Import the database.sql file into the created database using phpMyAdmin.
 5. Configure database credentials in db_connect.php:
- ```
+     ```
     $conn = mysqli_connect("localhost", "username", "password", "database_name");
-```
+    ```
 6. Start Apache and MySQL services.
 7. Open the browser and navigate to:
-```
+    ```
     http://localhost/Blood-Connect/
-```
+    ```
