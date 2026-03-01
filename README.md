@@ -108,5 +108,6 @@ Before setting up the project, ensure the following requirements are met:
 1. Clone the repository:
    ```
    bash
+   ----
    git clone https://github.com/Tripura657/Blood-Connect
    ```
