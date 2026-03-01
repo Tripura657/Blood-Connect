@@ -101,3 +101,6 @@ Before setting up the project, ensure the following requirements are met:
 - **MySQL** – Used to store and manage application data.
 - **Web Browser** – To access and test the application.
 - **Text Editor / IDE** – To view and edit the source code.
+### Optional (For Local Development)
+- **XAMPP / WAMP / MAMP** – Provides Apache, PHP, and MySQL together.
+- **phpMyAdmin** – Used to import and manage the database.
