@@ -134,3 +134,16 @@ Before setting up the project, ensure the following requirements are met:
     3. Import `database.sql` into the live database.
     4. Update database credentials in `db_connect.php`.
     5. Access the live application using the provided domain URL.
+# Contributing
+
+
+  Contributions are welcome!
+  
+  If you would like to contribute:
+  1. Fork the repository.
+  2. Create a new branch (`feature/your-feature-name`).
+  3. Make your changes.
+  4. Commit and push your changes.
+  5. Open a Pull Request with a clear description.
+  
+  Please ensure your code follows clean coding practices and does not break existing functionality.
