@@ -92,3 +92,12 @@ Blood-Connect/
     - Structured and reusable components for consistent UI
     
     - Responsive web interface
+## 🔧 Prerequisites
+
+Before setting up the project, ensure the following requirements are met:
+
+- **Web Server (Apache)** – Required to run PHP files.
+- **PHP (7.x or above)** – Used for backend logic, authentication, and database operations.
+- **MySQL** – Used to store and manage application data.
+- **Web Browser** – To access and test the application.
+- **Text Editor / IDE** – To view and edit the source code.
