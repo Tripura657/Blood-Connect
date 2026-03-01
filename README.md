@@ -126,3 +126,11 @@ Before setting up the project, ensure the following requirements are met:
     ```
     http://localhost/Blood-Connect/
     ```
+# Deployment
+- The application is deployed using **InfinityFree**, which supports PHP and MySQL hosting.
+   ### Deployment Steps:
+    1. Upload all project files to the hosting server using File Manager or FTP.
+    2. Create a MySQL database from the hosting control panel.
+    3. Import `database.sql` into the live database.
+    4. Update database credentials in `db_connect.php`.
+    5. Access the live application using the provided domain URL.
