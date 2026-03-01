@@ -106,8 +106,9 @@ Before setting up the project, ensure the following requirements are met:
 - **phpMyAdmin** – Used to import and manage the database.
 # Setup
 1. Clone the repository:
+    ----
+    bash
+   -----
    ```
-   bash
-   ----
    git clone https://github.com/Tripura657/Blood-Connect
    ```
