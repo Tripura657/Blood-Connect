@@ -34,3 +34,57 @@ Blood-Connect/
 ├── view_blood_banks.php     # View details of all blood banks
 └── view_blood_camps.php     # View all registered blood camps
 ```
+# Features
+- User Features
+
+    - User registration and login system
+
+    - Secure user authentication and logout
+    
+    - User profile management
+    
+    - Change password functionality
+    
+    - View list of registered blood donors
+    
+    - Search blood donors based on blood group and location
+    
+    - View blood bank details
+    
+    - Search blood banks
+    
+    - View blood donation camp details
+    
+    - Search blood donation camps
+    
+    - Submit and view blood requests
+    
+    - Contact form for blood-related queries
+    
+    - General contact form for user support
+    
+    - Blood donation certificate generation
+
+🛠️ Admin Panel Features
+
+Admin login and dashboard
+
+Add, update, and manage blood donor records
+
+Add, update, and manage blood bank details
+
+Add, update, and manage blood donation camp details
+
+View and manage blood requests
+
+Centralized management of system data
+
+🔍 System Features
+
+Location-based search functionality
+
+Centralized database for donors, banks, and camps
+
+Structured and reusable components for consistent UI
+
+Responsive web interface
