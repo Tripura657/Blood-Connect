@@ -104,3 +104,9 @@ Before setting up the project, ensure the following requirements are met:
 ### Optional (For Local Development)
 - **XAMPP / WAMP / MAMP** – Provides Apache, PHP, and MySQL together.
 - **phpMyAdmin** – Used to import and manage the database.
+# Setup
+1. Clone the repository:
+   ```
+   bash
+   git clone https://github.com/Tripura657/Blood-Connect
+   ```
