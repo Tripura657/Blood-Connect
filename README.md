@@ -48,11 +48,15 @@ Blood-Connect/
     - View list of registered blood donors
     
     - Search blood donors based on blood group and location
-    
+
+    - add blood banks
+
     - View blood bank details
     
     - Search blood banks
-    
+
+    - add blood camps
+
     - View blood donation camp details
     
     - Search blood donation camps
