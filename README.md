@@ -32,4 +32,5 @@ Blood-Connect/
 ├── search_blood_camps.php   # Search camps
 ├── sign-up.php              # Sign-up / registration page for new users
 ├── view_blood_banks.php     # View details of all blood banks
-└── view_blood_camps.php     # View all registered blood camps ```
+└── view_blood_camps.php     # View all registered blood camps
+```
